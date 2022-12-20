@@ -1,0 +1,19 @@
+ul,li,a{
+  border: none;
+  color: rgb(255, 0, 0);
+}
+.fixmenu{
+  font-family: arial,sans-serif;
+  font-size: 14px;
+  color: #bdc1c6;
+  --center-abs-margin: 180px;
+  --center-width: 652px;
+  --rhs-margin: 60px;
+  --rhs-width: 369px;
+  min-width: 1121px;
+  z-index: 128;
+  width: 100%;
+  margin-top: 6px;
+  position: absolute;
+  top: 20px;
+}
